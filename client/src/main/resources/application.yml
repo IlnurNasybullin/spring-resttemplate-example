@@ -1,0 +1,7 @@
+server:
+  port: 11000
+  servlet:
+    context-path: /client
+
+url:
+  file: http://localhost:10000/server/download-as-bytes
